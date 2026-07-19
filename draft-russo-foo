@@ -24,24 +24,24 @@ abbrev: "TODO - Abbreviation"
 category: info
 
 docname: draft-russo-foo-latest
-submissiontype: independent  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+# area: AREA
+# workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
   github: alicerusso/draft-russo-foo
-  latest: https://example.com/LATEST
+#  latest: https://example.com/LATEST
 
 author:
  -
