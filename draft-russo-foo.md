@@ -20,8 +20,8 @@ venue:
 #  type: Working Group
 #  mail: WG@example.com
 #  arch: https://example.com/WG
-  github: alicerusso/draft-russo-foo
-#  latest: https://example.com/LATEST
+  github: "alicerusso/draft-russo-foo"
+  latest: "https://alicerusso.github.io/draft-russo-foo/draft-russo-foo.html"
 
 author:
  -
