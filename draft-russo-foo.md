@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Foo Protocol"
+abbrev: "Foo"
 category: info
 
 docname: draft-russo-foo-latest
@@ -37,7 +37,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This draft is a test of the internet-draft-template.
 
 
 --- middle
