@@ -1,0 +1,83 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:30:07.947059+00:00",
+  "repo": "alicerusso/draft-russo-foo",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFfM7zhqtY",
+      "title": "Update draft-russo-foo.md",
+      "url": "https://github.com/alicerusso/draft-russo-foo/pull/1",
+      "state": "MERGED",
+      "author": "alicerusso",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:39:08Z",
+      "updatedAt": "2026-07-19T11:39:50Z",
+      "baseRepository": "alicerusso/draft-russo-foo",
+      "baseRefName": "main",
+      "baseRefOid": "6c97090487ff36a40ff0d043c06df76a25f81e7b",
+      "headRepository": "alicerusso/draft-russo-foo",
+      "headRefName": "alicerusso-patch-1",
+      "headRefOid": "40e6831e06d435ceb2727aa1083f69f93bc020c2",
+      "closedAt": "2026-07-19T11:39:50Z",
+      "mergedAt": "2026-07-19T11:39:50Z",
+      "mergedBy": "alicerusso",
+      "mergeCommit": {
+        "oid": "b2ad6e8b988240be38c0b10a03e3e2563ac79845"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
